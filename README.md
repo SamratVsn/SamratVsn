@@ -1,29 +1,108 @@
-<h1 align="center">Hi 👋, I'm Samrat Parajuli</h1>
-<h3 align="center">A passionate Mobile Application developer from Nepal</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Samrat%20Parajuli&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%E2%80%A2%20Nepal&descAlignY=55&descAlign=50" alt="Samrat Parajuli Header" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samratvsn&label=Profile%20views&color=0e75b6&style=flat" alt="samratvsn" /> </p>
-
-- 🌱 I’m currently learning **Android Development with Kotlin**
-
-- 👨‍💻 All of my projects are available at [https://www.samratparajuli0.com.np/](https://www.samratparajuli0.com.np/)
-
-- 📝 I regularly write articles on [https://samratvsn.blogspot.com/](https://samratvsn.blogspot.com/)
-
-- 💬 Ask me about **C, Kotlin or Jetpack Compose**
-
-- 📫 How to reach me **samratvsn@gmail.com**
-
-- ⚡ Fun fact **I'm currently at Grade 12 NEB**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/samratvsn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="samratvsn" height="30" width="40" /></a>
-<a href="https://twitter.com/samratvsn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samratvsn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/samrat-parajuli-54310732b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samrat-parajuli-54310732b/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/31761332/samrat-parajuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/31761332/samrat-parajuli" height="30" width="40" /></a>
-<a href="https://fb.com/samrat parajuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samrat parajuli" height="30" width="40" /></a>
-<a href="https://instagram.com/samratvsn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samratvsn" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.samratparajuli0.com.np/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:samratvsn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h2 align="center">Namaste! 🙏 I'm a passionate Mobile App Developer</h2>
+
+<p align="center">
+  Currently rocking <b>Grade 12 (NEB)</b> while building the future of mobile apps! 🚀 <br>
+  I specialize in <b>Native Android Development</b> and love turning coffee into code.
+</p>
+
+<br>
+
+<div align="center">
+
+| 🔭 Current Focus | 🌱 Learning | ⚡ Fun Fact |
+| :--- | :--- | :--- |
+| **Android (Kotlin)** | **Jetpack Compose** | **High School Student** |
+| Building Apps | Modern UI Toolkits | Grade 12 @ NEB |
+
+</div>
+
+<br>
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=google-play&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+
+</div>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=samratvsn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Samrat's Stats" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samratvsn&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samratvsn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+### 🤝 Connect with Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/samrat-parajuli-54310732b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/samratvsn" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://dev.to/samratvsn" target="_blank">
+  <img src="https://img.shields.io/badge/Dev.to-Read%20Blogs-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+</a>
+
+<a href="https://stackoverflow.com/users/31761332/samrat-parajuli" target="_blank">
+  <img src="https://img.shields.io/badge/StackOverflow-Ask%20Me-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/samratvsn" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://fb.com/samrat parajuli" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-Add%20Friend-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=samratvsn&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+
+</div>
