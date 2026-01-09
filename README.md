@@ -60,17 +60,20 @@
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamratVsn&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=samratvsn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Samrat's Stats" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samratvsn&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samratvsn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamratVsn&theme=tokyonight&hide_border=true" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamratVsn&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
