@@ -64,15 +64,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamratVsn&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamratVsn&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamratVsn&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamratVsn&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
 
 ---
 
