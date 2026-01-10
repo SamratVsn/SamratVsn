@@ -61,9 +61,12 @@
 ---
 
 ## 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamratVsn&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak Stats" />
-</p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SamratVsn&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=3&order=3" height="150" alt="streak graph"  />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamratVsn&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ---
 
