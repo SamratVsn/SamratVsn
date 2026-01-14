@@ -35,28 +35,17 @@
 
 ### 🛠️ Tech Stack & Arsenal
 
-<div align="center">
+[![My Skills](https://skillicons.dev/icons?i=android,kotlin,java,react,js,html,css,tailwind,c,git,github)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=google-play&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+---
 
-<br>
+### 📱 Featured Project
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/SamratVsn/devPortfoli0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamratVsn&repo=devPortfoli0&theme=aura&show_owner=true" alt="devPortfoli0" />
+  </a>
+</p>
 
 ---
 
@@ -68,37 +57,20 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamratVsn&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+<br />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samratvsn&label=PROFILE+VIEWS&color=blue&style=flat" alt="Views" />
+</p>
+
 ---
 
-### 🤝 Connect with Me
+## 🤝 Connect with Me
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/samrat-parajuli-54310732b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://twitter.com/samratvsn" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-<a href="https://dev.to/samratvsn" target="_blank">
-  <img src="https://img.shields.io/badge/Dev.to-Read%20Blogs-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-</a>
-
-<a href="https://stackoverflow.com/users/31761332/samrat-parajuli" target="_blank">
-  <img src="https://img.shields.io/badge/StackOverflow-Ask%20Me-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/samratvsn" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/samrat.parajuli.9615" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-Add%20Friend-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<br><br>
-<img src="https://komarev.com/ghpvc/?username=samratvsn&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-
-</div>
+<p align="left">
+<a href="https://www.linkedin.com/in/samrat-parajuli-54310732b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samrat-parajuli" height="30" width="40" /></a>
+<a href="https://twitter.com/samratvsn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samratvsn" height="30" width="40" /></a>
+<a href="https://dev.to/samratvsn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="samratvsn" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/31761332/samrat-parajuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="samrat-parajuli" height="30" width="40" /></a>
+<a href="https://instagram.com/samratvsn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samratvsn" height="30" width="40" /></a>
+<a href="https://www.facebook.com/samrat.parajuli.9615" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samrat.parajuli" height="30" width="40" /></a>
+</p>
