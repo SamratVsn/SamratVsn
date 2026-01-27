@@ -2,34 +2,59 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Samrat%20Parajuli&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%E2%80%A2%20Nepal&descAlignY=55&descAlign=50" alt="Samrat Parajuli Header" />
 </div>
 
-<p align="center">
+<div align="center">
+  
+  <!-- Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+  <h3>💼 Let's Connect</h3>
+  
   <a href="https://www.samratparajuli0.com.np/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:samratvsn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
-
-<h2 align="center">Namaste! 🙏 I'm a passionate Mobile App Developer</h2>
-
-<p align="center">
-  Currently rocking <b>Grade 12 (NEB)</b> while building the future of mobile apps! 🚀 <br>
-  I specialize in <b>Native Android Development</b> and love turning coffee into code.
-</p>
-
-<br>
+  <a href="https://www.samratparajuli0.com.np/">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+</div>
 
 <div align="center">
-
-| 🔭 Current Focus | 🌱 Learning | ⚡ Fun Fact |
-| :--- | :--- | :--- |
-| **Android (Kotlin)** | **Jetpack Compose** | **High School Student** |
-| Building Apps | Modern UI Toolkits | Grade 12 @ NEB |
+  
+  <h1>Namaste! 🙏 I'm Samrat Parajuli</h1>
+  <h3>Mobile App Developer | Student | Tech Enthusiast</h3>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Grade_12-NEB-blue?style=flat-square" alt="Education"/>
+    <img src="https://img.shields.io/badge/Focus-Android_Development-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Focus"/>
+    <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Language"/>
+  </p>
 
 </div>
 
-<br>
+<br/>
+
+<p align="center">
+  📱 Building native Android applications with a passion for clean architecture and intuitive UIs<br/>
+  🎯 Currently mastering <b>Jetpack Compose</b> to create modern, reactive interfaces<br/>
+  🚀 Balancing academics with coding — proving you're never too young to build amazing things!
+</p>
+
+<br/>
+
+<div align="center">
+
+| 🔭 **Currently Working On** | 🌱 **Learning & Exploring** | ⚡ **Quick Facts** |
+|:---------------------------:|:---------------------------:|:------------------:|
+| Native Android Apps | Jetpack Compose | High School Developer |
+| Kotlin Development | Material Design 3 | Grade 12 @ NEB |
+| Clean Architecture | Coroutines & Flow | Always Learning 📚 |
+
+</div>
 
 ---
 
