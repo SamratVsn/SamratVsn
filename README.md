@@ -67,8 +67,8 @@
 ### 📱 Featured Project
 
 <p align="center">
-  <a href="https://github.com/SamratVsn/devPortfoli0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamratVsn&repo=devPortfoli0&theme=aura&show_owner=true" alt="devPortfoli0" />
+  <a href="https://github.com/SamratVsn/ToDo">
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQHhnLC0gPB2Ew/feedshare-shrink_480/B56Z_WCwnXHYAg-/0/1786002475742?e=1787788800&v=beta&t=98-0dltP_zrPXHd7A6ja1jZIVONcinydIoAG0I_fCyw" alt="ToDo" />
   </a>
 </p>
 
