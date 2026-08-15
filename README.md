@@ -6,7 +6,7 @@
 Also known as **SamratVsn** across GitHub and other developer platforms
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://www.samratparajuli0.com.np/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samrat-parajuli-54310732b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samratvsn/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:samratvsn@gmail.com)
 
 </div>
@@ -15,7 +15,7 @@ Also known as **SamratVsn** across GitHub and other developer platforms
 
 ### About
 
-Building native Android apps, one clean architecture at a time.
+Building native Android apps.
 
 I focus on native Android development with **Kotlin**, with a particular interest in clean, maintainable architecture and intuitive UIs. I'm currently deepening my skills in **Jetpack Compose** to build modern, reactive interfaces. I learn primarily by building real projects.
 
@@ -44,11 +44,12 @@ I focus on native Android development with **Kotlin**, with a particular interes
 
 *More projects on my [GitHub profile](https://github.com/SamratVsn?tab=repositories).*
 
-### Currently Learning
+### Currently Exploring
 
-- Jetpack Compose
-- Material Design 3
+- Advanced Jetpack Compose patterns
+- Android app architecture
 - Kotlin Coroutines & Flow
+- Modern Android development practices
 
 ### Links
 
@@ -67,10 +68,10 @@ I focus on native Android development with **Kotlin**, with a particular interes
 ### GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamratVsn&show_icons=true&hide_border=true&theme=default&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamratVsn&layout=compact&hide_border=true&theme=default" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamratVsn&show_icons=true&hide_border=true&theme=github_dark&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamratVsn&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Top languages" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=SamratVsn&locale=en&mode=daily&theme=default&hide_border=true&border_radius=3&order=3" height="150" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com?user=SamratVsn&locale=en&mode=daily&theme=react&hide_border=true&border_radius=3&order=3" height="150" alt="GitHub streak stats" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamratVsn&radius=16&theme=minimal&area=true&order=5" height="280" alt="GitHub contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamratVsn&radius=16&theme=react-dark&area=true&hide_border=true&order=5" height="280" alt="GitHub contribution graph" />
 </div>
