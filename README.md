@@ -68,9 +68,6 @@ I focus on native Android development with **Kotlin**, with a particular interes
 ### GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamratVsn&show_icons=true&hide_border=true&theme=github_dark&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamratVsn&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Top languages" />
-  <br />
   <img src="https://streak-stats.demolab.com?user=SamratVsn&locale=en&mode=daily&theme=react&hide_border=true&border_radius=3&order=3" height="150" alt="GitHub streak stats" />
   <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamratVsn&radius=16&theme=react-dark&area=true&hide_border=true&order=5" height="280" alt="GitHub contribution graph" />
