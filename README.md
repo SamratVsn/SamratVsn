@@ -1,74 +1,61 @@
 <div align="center">
 
 # Samrat Parajuli
+**Android Developer · Nepal**
 
-**Android Developer** · Nepal
-Also known as **SamratVsn** across GitHub and other developer platforms
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://www.samratparajuli0.com.np/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samratvsn/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:samratvsn@gmail.com)
+[Portfolio](https://www.samratparajuli0.com.np/) · [LinkedIn](https://www.linkedin.com/in/samratvsn/) · [Email](mailto:samratvsn@gmail.com)
 
 </div>
 
 ---
 
-### About
+## About
 
-Building native Android apps.
+I build native Android applications with Kotlin and Jetpack Compose, focusing on clean architecture, maintainable code, and thoughtful user interfaces.
 
-I focus on native Android development with **Kotlin**, with a particular interest in clean, maintainable architecture and intuitive UIs. I'm currently deepening my skills in **Jetpack Compose** to build modern, reactive interfaces. I learn primarily by building real projects.
+Currently building projects to deepen my understanding of modern Android development and explore how software can solve practical problems.
 
-### 📱 What I Build
+---
 
-- Native Android applications
-- UIs with Jetpack Compose and Material Design 3
-- Apps structured around clean architecture principles
-- Features using Kotlin Coroutines and Flow
+## Featured Projects
 
-### 🛠 Core Technologies
+**[ToDo](https://github.com/SamratVsn/ToDo)**
+Native Android task management application built with Kotlin and Jetpack Compose.
+`Kotlin` · `Jetpack Compose` · `Material 3` · `Room` · `DataStore`
 
-**Android Development**
-`Kotlin` · `Java` · `Jetpack Compose` · `Android SDK`
+**[The Movie](https://github.com/SamratVsn/TheMovie)**
+Movie discovery application using TMDB to browse and explore movie information.
+`Kotlin` · `Jetpack Compose` · `Retrofit` · `OkHttp` · `Kotlin Serialization` · `Coil`
 
-**Also familiar with**
-`React` · `JavaScript` · `HTML` · `CSS` · `Tailwind CSS` · `C` · `Git` · `GitHub`
+**[Kathmandu](https://github.com/SamratVsn/Kathmandu)**
+A city-focused Android application exploring Kathmandu through a mobile experience.
+`Kotlin` · `Jetpack Compose`
 
-### Featured Projects
+More projects on my [GitHub profile](https://github.com/SamratVsn?tab=repositories).
 
-| Project | Description |
-|---|---|
-| **[To-Do](https://github.com/SamratVsn/ToDo)** | A native Android task management app |
-| **[The Movie App](https://github.com/SamratVsn/TheMovie)** | An Android app for browsing movie information |
-| **[JuiceTracker](https://github.com/SamratVsn/Juicetracker)** | A native Android app for tracking juice recipes and entries |
+---
 
-*More projects on my [GitHub profile](https://github.com/SamratVsn?tab=repositories).*
+## Tech Stack
 
-### Currently Exploring
+**Android:** Kotlin · Java · Jetpack Compose · Android SDK · Coroutines & Flow
+
+**Also familiar with:** React · JavaScript · HTML · CSS · Tailwind CSS · C · Git
+
+---
+
+## Currently Learning
 
 - Advanced Jetpack Compose patterns
 - Android app architecture
-- Kotlin Coroutines & Flow
-- Modern Android development practices
-
-### Links
-
-- Portfolio: [samratparajuli0.com.np](https://www.samratparajuli0.com.np/)
-- GitHub: [github.com/SamratVsn](https://github.com/SamratVsn)
-- LinkedIn: [linkedin.com/in/samratvsn](https://www.linkedin.com/in/samratvsn/)
-- Twitter: [@samratvsn](https://twitter.com/samratvsn)
-- Dev.to: [dev.to/samratvsn](https://dev.to/samratvsn)
-- Stack Overflow: [samrat-parajuli](https://stackoverflow.com/users/31761332/samrat-parajuli)
-- Instagram: [@samratvsn](https://instagram.com/samratvsn)
-- Facebook: [samrat.parajuli.9615](https://www.facebook.com/samratvsn)
-- Email: [samratvsn@gmail.com](mailto:samratvsn@gmail.com)
 
 ---
 
-### GitHub Activity
+## Links
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SamratVsn&locale=en&mode=daily&theme=react&hide_border=true&border_radius=3&order=3" height="150" alt="GitHub streak stats" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamratVsn&radius=16&theme=react-dark&area=true&hide_border=true&order=5" height="280" alt="GitHub contribution graph" />
-</div>
+- GitHub: [github.com/SamratVsn](https://github.com/SamratVsn)
+- Portfolio: [samratparajuli0.com.np](https://www.samratparajuli0.com.np/)
+- LinkedIn: [linkedin.com/in/samratvsn](https://www.linkedin.com/in/samratvsn/)
+- Stack Overflow: [samrat-parajuli](https://stackoverflow.com/users/31761332/samrat-parajuli)
+- Dev.to: [dev.to/samratvsn](https://dev.to/samratvsn)
+- Twitter: [@samratvsn](https://twitter.com/samratvsn)
+- Email: [samratvsn@gmail.com](mailto:samratvsn@gmail.com)
