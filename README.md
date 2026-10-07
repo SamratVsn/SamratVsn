@@ -31,30 +31,31 @@ I build native Android apps with **Kotlin** and **Jetpack Compose** — focused 
 
 <table>
 <tr>
+  
 <td width="50%" valign="top">
 
-### [📝 ToDo](https://github.com/SamratVsn/ToDo)
+### [🏙️ Avalokan](https://github.com/SamratVsn/Avalokan)
+A tourism based android app, currently on progress
+
+`Kotlin` `Jetpack Compose` `Hilt` `Room` `Firebase` 
+
+</td>
+<td width="50%" valign="top">
+
+### [📝 Tasks](https://github.com/SamratVsn/ToDo)
 Distraction-free task manager with Pomodoro-style focus sessions, smart reminders, and Room-backed persistence.
 
 `Kotlin` `Jetpack Compose` `Room` `SQL` `DataStore`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+  <td width="50%" valign="top">
 
 ### [🎬 The Movie](https://github.com/SamratVsn/TheMovie)
 Browse, search, and explore movies via the TMDB API — with watchlists and offline-ready caching.
 
 `Kotlin` `Jetpack Compose` `Retrofit` `DataStore` `Coil`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [🏙️ Kathmandu](https://github.com/SamratVsn/Kathmandu)
-A city-focused Android app exploring Kathmandu through a mobile experience.
-
-`Kotlin` `Jetpack Compose`
 
 </td>
 <td width="50%" valign="top">
