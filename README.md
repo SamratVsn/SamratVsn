@@ -2,14 +2,17 @@
 
 # Hi, I'm Samrat Parajuli 👋
 
-### Android App Developer · Nepal 🇳🇵
+### Android Developer · Kotlin · Jetpack Compose · Nepal 🇳🇵
 
-I build native Android apps with **Kotlin** and **Jetpack Compose** — focused on clean architecture, maintainable code, and thoughtful UX.
+I build **native Android applications** with Kotlin and Jetpack Compose, with a focus on thoughtful UX, modern architecture, and maintainable code.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.samratparajuli0.com.np/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samratvsn/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samratvsn@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SamratVsn)
+I'm passionate about **building software, continuously learning, and sharing my journey** through projects, developer communities, and open source.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://www.samratparajuli0.com.np/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/samratvsn/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/SamratVsn)
 
 <img src="https://komarev.com/ghpvc/?username=SamratVsn&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
@@ -17,113 +20,152 @@ I build native Android apps with **Kotlin** and **Jetpack Compose** — focused 
 
 ---
 
-## About Me
+## 🚀 What I Build
 
-- 📱 I build **native Android applications** using Kotlin and Jetpack Compose
-- 🧱 I care about **clean architecture**, testable code, and modern app design patterns
-- 🌱 Currently deepening my knowledge of advanced Compose patterns and app architecture
-- 💬 Ask me about Android, Kotlin, or Jetpack Compose
-- 📫 Reach me at **samratvsn@gmail.com**
+I build **native Android applications** focused on useful experiences, thoughtful interfaces, and solid engineering practices.
+
+My Android work revolves around:
+
+* 📱 Native Android development with **Kotlin**
+* 🎨 Modern UI with **Jetpack Compose & Material 3**
+* 🧱 Maintainable application architecture
+* 💾 Local data persistence and offline-first experiences
+* 🌐 API integration and networking
+* 🧪 Writing reliable and testable code
+* ♿ Building accessible and user-friendly applications
 
 ---
 
-## Featured Projects
+## ⭐ Featured Projects
 
 <table>
 <tr>
-  
+
 <td width="50%" valign="top">
 
-### [🏙️ Avalokan](https://github.com/SamratVsn/Avalokan)
-A tourism based android app, currently on progress
+### 📝 [Tasks](https://github.com/SamratVsn/ToDo)
 
-`Kotlin` `Jetpack Compose` `Hilt` `Room` `Firebase` 
+A productivity platform for managing tasks, organizing work, and maintaining focused work sessions.
+
+**Stack**
+
+`Kotlin` `Jetpack Compose` `Material 3` `Room` `DataStore` `Hilt`
 
 </td>
+
 <td width="50%" valign="top">
 
-### [📝 Tasks](https://github.com/SamratVsn/ToDo)
-Distraction-free task manager with Pomodoro-style focus sessions, smart reminders, and Room-backed persistence.
+### 🎬 [The Movie](https://github.com/SamratVsn/TheMovie)
 
-`Kotlin` `Jetpack Compose` `Room` `SQL` `DataStore`
+A movie discovery application powered by the TMDB API, with search, browsing, watchlists, and locally cached data.
 
-</td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-### [🎬 The Movie](https://github.com/SamratVsn/TheMovie)
-Browse, search, and explore movies via the TMDB API — with watchlists and offline-ready caching.
+**Stack**
 
 `Kotlin` `Jetpack Compose` `Retrofit` `DataStore` `Coil`
 
 </td>
+
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
-### More Projects
-Check out the rest of my work on my [GitHub profile →](https://github.com/SamratVsn?tab=repositories)
+### 🏙️ [Avalokan](https://github.com/SamratVsn/Avalokan)
+
+A tourism-focused Android application exploring location-based experiences and modern Android architecture.
+
+**Stack**
+
+`Kotlin` `Jetpack Compose` `Hilt` `Room` `Firebase`
 
 </td>
+
+<td width="50%" valign="top">
+
+### 🌐 More Projects
+
+I experiment, learn, and build across different areas of software development.
+
+→ [Explore all repositories](https://github.com/SamratVsn?tab=repositories)
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-## GitHub Analytics
+## 📚 Learning & Building in Public
+
+I'm a strong believer in learning by **building and sharing the process**.
+
+Through projects, developer events, and learning challenges such as **30DaysOfAndroid**, I document what I learn while continuously improving my Android development skills.
+
+### Currently Exploring
+
+* Modern Android architecture
+* Advanced Kotlin
+* Jetpack Compose patterns
+* Dependency Injection with Hilt
+* Testing Android applications
+* Paging & large data sets
+* Offline-first application design
+* Accessibility and thoughtful UX
+
+---
+
+## 🛠️ Tech Stack
+
+### Android Development
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge\&logo=jetpackcompose\&logoColor=white)
+![Android](https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge\&logo=android\&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge\&logo=android\&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+
+---
+
+## 📈 GitHub
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamratVsn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-<br />
+
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamratVsn&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## Tech Stack
+## 🤝 Let's Connect
 
 <div align="center">
 
-**Android**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-**Also familiar with**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://www.samratparajuli0.com.np/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/samratvsn/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/SamratVsn)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge\&logo=devdotto\&logoColor=white)](https://dev.to/samratvsn)
 
 </div>
 
 ---
 
-## Currently Learning
-
-- Advanced Jetpack Compose patterns
-- Advanced Kotlin 
-- Hilt, Paging , Testing
-
----
-
-## Connect With Me
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamratVsn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.samratparajuli0.com.np/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samratvsn/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/31761332/samrat-parajuli)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/samratvsn)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SamratVsn)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samratvsn@gmail.com)
+### Building. Learning. Sharing. Improving. 🚀
+
+**Android · Kotlin · Open Source · Community**
 
 </div>
