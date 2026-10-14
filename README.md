@@ -43,7 +43,7 @@ Alongside development, I'm interested in **open source, developer communities, a
 A productivity platform for managing tasks, organizing work, and maintaining focused work sessions.
 
 **Kotlin · Compose · Material 3**
-**Room · DataStore · Hilt**
+**Room · Firebase · Hilt**
 
 </td>
 
