@@ -36,6 +36,16 @@ Alongside development, I'm interested in **open source, developer communities, a
 
 <table>
 <tr>
+  <td width="50%" valign="top">
+
+### 🏙️ [Avalokan](https://github.com/SamratVsn/Avalokan)
+
+A tourism-focused Android application exploring Nepal through places, culture, history, religion, and local events.
+
+**Kotlin · Compose · Hilt**
+**Room · Firebase**
+
+</td>
 <td width="50%" valign="top">
 
 ### 📝 [Tasks](https://github.com/SamratVsn/ToDo)
@@ -46,7 +56,9 @@ A productivity platform for managing tasks, organizing work, and maintaining foc
 **Room · Firebase · Hilt**
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 ### 🎬 [The Movie](https://github.com/SamratVsn/TheMovie)
@@ -55,19 +67,6 @@ A movie discovery application powered by the TMDB API, with search, browsing, wa
 
 **Kotlin · Compose · Retrofit**
 **DataStore · Coil**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🏙️ [Avalokan](https://github.com/SamratVsn/Avalokan)
-
-A tourism-focused Android application exploring Nepal through places, culture, history, religion, and local events.
-
-**Kotlin · Compose · Hilt**
-**Room · Firebase**
 
 </td>
 
